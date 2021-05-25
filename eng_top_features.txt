@@ -1,0 +1,59 @@
+School of Cultural Studies
+	2.5939254083769234 	king, newspaper, tolstoy, historian, government
+	2.055191156701277 	soviet, ussr, military, sport, document
+	1.8250179225713132 	rubens, artist, perform, portrait, mausoleum
+	1.7443224485903976 	artist, depict, master, composition, italian
+	1.5628192147774067 	temple, polish, architect, brand, prince
+	1.2909069980251406 	museum, artist, exhibition, visitor, spectator
+	1.2005788395136283 	god, prince, saint, constantine, Socrates
+	0.842710507922798 	god, rilke, mall, angel, urn
+	0.6727720629758619 	artist, building, music, photography, fragment
+	0.6209975021368711 	bulgakov, record, novel, dostoevsky, daughter
+----------
+School of History
+	2.0790912426402004 	film, spectator, director, performance, theater
+	1.4791515271619156 	flashmob, community, respondent, interview, mosk
+	1.459256490754906 	museum, artist, exhibition, visitor, spectator
+	1.288933579733873 	subject, being, serf, individual, philosophy
+	1.1422777790051437 	film, scene, romance, kim, character
+	1.0483772604727568 	artist, viewer, james, turgenev, athlete
+	0.9751584569185027 	artist, building, music, photography, fragment
+	0.9168403291434661 	vowel, baroque, mikhailov, music, agent
+	0.8994251837450844 	baratynsky, aksakov, theater, performance, spectator
+	0.7657869073286515 	shaman, village, migrant, tribe, resident
+----------
+School of Linguistics
+	4.5797990292789 	verb, construction, russian_language, student, experiment
+	2.698619364173861 	corpus, algorithm, parameter, markup, training
+	1.7069751950989493 	verb, lexeme, frame, used, idiom
+	1.2564008093738928 	gesture, russian_language, student, informant, language
+	1.1476902796131687 	adverb, construction, felix, speaker, noun
+	1.0909678278953139 	particle, block, kuzmina, cycle, verb
+	0.8719651279420416 	composite, corpus, noun, collocation, component
+	0.659525346800817 	festival, cluster, burning, film, tragedy
+	0.6435330935440234 	judgment, witgenstein, interview, university, network
+	0.44717760760168923 	ontology, pisemsky, peirce, graph, invention
+----------
+School of Philological Studies
+	4.214722555517609 	poet, poem, novel, writer, character
+	1.918018414437308 	romance, theater, character, heroine, del
+	1.2252242678719127 	novel, petersburg, white, storyteller, elle
+	1.052802943520902 	gypsy, moscow, poem, dostoevsky, writer
+	1.0433600895433097 	bulgakov, record, novel, dostoevsky, daughter
+	0.8235255216539572 	god, prince, saint, constantine, socrates
+	0.7771675506818128 	novel, adaptation, clitic, character, performance
+	0.6312565260405699 	gesture, russian_language, student, informant, language
+	0.6012701180659712 	poem, poetry, poetess, niva, collection
+	0.5605436886525359 	film, zone, tarkovsky, script, story
+----------
+School of Philosophy
+	3.82530670570969 	philosophy, philosopher, phenomenology, god, philosophical
+	2.0522356134870794 	subject, being, serf, individual, philosophy
+	1.6903110792650833 	kant, sublime, reason, metaphysician, knowledge
+	1.3749039986547562 	metaphor, speaking, romance, religion, noise
+	1.1869145865118285 	nietzsche, heidegger, truth, bacon, sculptor
+	0.8931199797589219 	russo, schmitt, thinker, philosopher, ibn
+	0.8201097986064299 	los, franc, being, god, philosophy
+	0.6701065316866388 	kropotkin, yell, capitalism, aristotle, revolution
+	0.4586465558022146 	artist, yoga, yogi, liberation, even
+	0.4205409750517246 	bradbury, strauss, writer, self, hobbes
