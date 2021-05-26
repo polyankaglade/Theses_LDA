@@ -2,7 +2,7 @@
 
 This repositiry contains the code and the data for my Bachelor Thesis at NRU HSE.
 
-It also host a [website](https://polyankaglade.github.io/Theses_LDA/) with interactive 2D and 3D graphs.
+It also [hosts](https://github.com/polyankaglade/Theses_LDA/tree/web) a [website](https://polyankaglade.github.io/Theses_LDA/) with interactive 2D and 3D graphs. 
 
 
 If you are interested in raw theses files, please contact me via email, or download them from [HSE official website](https://www.hse.ru/en/edu/vkr/) manually.
