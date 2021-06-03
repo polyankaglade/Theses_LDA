@@ -7,5 +7,16 @@ It also [hosts](https://github.com/polyankaglade/Theses_LDA/tree/web) a [website
 
 If you are interested in raw theses files, please contact me via email, or download them from [HSE official website](https://www.hse.ru/en/edu/vkr/) manually.
 
+To cite this work please use:
+
+```
+@thesis{Polyanskaya2021,
+  author       = {Polyanskaya, Anna}, 
+  title        = {Topic Modeling Approach to Evaluating Interdisciplinarity in Theses of Faculty of Humanities, HSE University},
+  school       = {NRU HSE, Moscow},
+  year         = {2021},
+  type         = {Bachelor's Thesis}
+}
+```
 
 *Made by Anna Polyanskaya, 2021.*
