@@ -7,7 +7,9 @@ It also [hosts](https://github.com/polyankaglade/Theses_LDA/tree/web) a [website
 
 If you are interested in raw theses files, please contact me via email, or download them from [HSE official website](https://www.hse.ru/en/edu/vkr/) manually.
 
-To cite this work please use:
+
+
+To cite [this work](https://github.com/polyankaglade/Theses_LDA/files/6612964/Polyanskaya2021_full_text.pdf) please use:
 
 ```
 @thesis{Polyanskaya2021,
